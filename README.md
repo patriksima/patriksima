@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello, I'm Patrik 👋
+
+- 🔭 I’m currently working on my personal project - Battleships game
+- 🌱 I’m currently learning Clean Architecture
+- 👯 I’m looking to collaborate on Fintech startup
+- 🤔 I’m looking for help with 3D art
+- 💬 Ask me about performance problems
+- 📫 How to reach me: (patriksima.github.io)[https://patriksima.github.io]
+- ⚡ Fun fact: I'm certified chess trainer
 
 <!--
 **patriksima/patriksima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
