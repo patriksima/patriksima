@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with 3D art
 - 💬 Ask me about performance problems
 - 📫 How to reach me: https://patriksima.github.io
-- ⚡ Fun fact: I'm certified chess trainer
+- ⚡ Fun fact: I'm certified chess coach
 
 <!--
 **patriksima/patriksima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
