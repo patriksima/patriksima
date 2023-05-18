@@ -1,7 +1,7 @@
 # Hello, I'm Patrik 👋
 
 - 🔭 I’m currently working on my personal project - Battleships game
-- 🌱 I’m currently learning Clean Architecture
+- 🌱 I’m currently learning Crisis Management
 - 👯 I’m looking to collaborate on Fintech startup
 - 🤔 I’m looking for help with 3D art
 - 💬 Ask me about performance problems
