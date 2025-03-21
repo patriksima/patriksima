@@ -1,9 +1,7 @@
 # Hello, I'm Patrik 👋
 
-- 🔭 I’m currently working on my personal project - Battleships game
-- 🌱 I’m currently learning Crisis Management
-- 👯 I’m looking to collaborate on Fintech startup
-- 🤔 I’m looking for help with 3D art
+- 🔭 I’m currently working on cloud gaming without boundaries https://www.apponfly.com/
+- 🌱 I’m currently learning Management & Economics
 - 💬 Ask me about performance problems
 - 📫 How to reach me: https://patriksima.github.io
 - ⚡ Fun fact: I'm certified chess coach
