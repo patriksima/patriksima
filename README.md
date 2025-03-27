@@ -1,6 +1,6 @@
 # Hello, I'm Patrik 👋
 
-- 🔭 I’m currently working on cloud gaming without boundaries https://www.apponfly.com/
+- 🔭 I’m currently seeking a position as a Senior .NET Developer.
 - 🌱 I’m currently learning Management & Economics
 - 💬 Ask me about performance problems
 - 📫 How to reach me: https://patriksima.github.io
