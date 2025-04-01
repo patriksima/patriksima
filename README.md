@@ -1,10 +1,10 @@
 # Hello, I'm Patrik 👋
 
-- 🔭 I’m currently seeking a position as a Senior .NET Developer.
-- 🌱 I’m currently learning Management & Economics
-- 💬 Ask me about performance problems
+- 🔭 I'm currently seeking a position as a Senior .NET Developer.
+- 🌱 I'm studying Economics and Management at university.
+- 💬 Ask me about performance problems.
 - 📫 How to reach me: https://patriksima.github.io
-- ⚡ Fun fact: I'm certified chess coach
+- ⚡ Fun fact: I'm certified chess coach.
 
 <!--
 **patriksima/patriksima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
