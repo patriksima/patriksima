@@ -1,6 +1,6 @@
 # Hello, I'm Patrik 👋
 
-- 🔭 I'm currently seeking a position as a Senior .NET Developer.
+- 🔭 I'm currently working on an Azure integration project.
 - 🌱 I'm studying Economics and Management at university.
 - 💬 Ask me about performance problems.
 - 📫 How to reach me: https://patriksima.github.io
